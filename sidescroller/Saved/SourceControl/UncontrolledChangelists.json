@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Run/manrun.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Levels/NewMap.umap",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Background/BLACK.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Background/BLACK_Sprite.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Tile/greysquare.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Tile/greysquare_Sprite.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Fall/manfall.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Idle/manidle.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Jump/manjump.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Blueprints/Paper2DCharacter.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Fall/T_UE4Robot_Fall_D.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Fall/T_UE4Robot_Fall_D_Sprite_0.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Fall/T_UE4Robot_Fall_D_Sprite_1.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Idle/T_UE4Robot_IdleStand_D.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Idle/T_UE4Robot_IdleStand_D_Sprite_0.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Idle/T_UE4Robot_IdleStand_D_Sprite_1.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Idle/T_UE4Robot_IdleStand_D_Sprite_2.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Idle/T_UE4Robot_IdleStand_D_Sprite_3.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Idle/T_UE4Robot_IdleStand_D_Sprite_4.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Idle/T_UE4Robot_IdleStand_D_Sprite_5.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Idle/T_UE4Robot_IdleStand_D_Sprite_6.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Idle/T_UE4Robot_IdleStand_D_Sprite_7.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Jump/T_UE4Robot_Jump_D.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Jump/T_UE4Robot_Jump_D_Sprite_0.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Jump/T_UE4Robot_Jump_D_Sprite_1.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Run/T_UE4Robot_Run_D.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Run/T_UE4Robot_Run_D_Sprite_0.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Run/T_UE4Robot_Run_D_Sprite_1.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Run/T_UE4Robot_Run_D_Sprite_2.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Run/T_UE4Robot_Run_D_Sprite_3.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Run/T_UE4Robot_Run_D_Sprite_4.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Run/T_UE4Robot_Run_D_Sprite_5.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Run/T_UE4Robot_Run_D_Sprite_6.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Run/T_UE4Robot_Run_D_Sprite_7.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Run/T_UE4Robot_Run_D_Sprite_8.uasset",
+				"D:/Projects/Programming/LearningUnrealEngine2DPlatoform/LearningUnrealEngine2DPlatoform/sidescroller/Content/Run/T_UE4Robot_Run_D_Sprite_9.uasset"
+			]
+		}
+	]
+}
